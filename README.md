@@ -1,4 +1,4 @@
-# Welcome to your Glyphor Fuse project
+# Welcome to your Glyphor Fuse projectas
 
 ## Project info
 
